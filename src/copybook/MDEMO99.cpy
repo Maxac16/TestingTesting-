@@ -1,8 +1,8 @@
       *   Micro Focus COBOL 2017  8.0.00189
       *   Micro Focus BMS Screen Painter
       *   MapSet Name   MDEMO99
-      *   Date Created  06/29/2023
-      *   Time Created  10:40:16
+      *   Date Created  06/30/2023
+      *   Time Created  10:08:32
 
       *  Output Data For Map DEMO99A
          01 DEMO99AO REDEFINES MAPAREA.
